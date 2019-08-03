@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Travelmania</string>
+    <string name="google">Sign in with Google</string>
+    <string name="email">Sign in with email</string>
+</resources>
