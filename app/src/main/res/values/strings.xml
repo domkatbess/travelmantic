@@ -2,4 +2,19 @@
     <string name="app_name">Travelmania</string>
     <string name="google">Sign in with Google</string>
     <string name="email">Sign in with email</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">First and Last Name</string>
+    <string name="text_email">Email</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="emailhint">Email</string>
+    <string name="emailautohint">Email</string>
+    <string name="emailtexthint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="save_details_button">Save</string>
+    <string name="admin_location">Location</string>
+    <string name="admin_cost">Cost</string>
+    <string name="admin_name">Name</string>
+    <string name="btn_admin_select_image">Select Image</string>
+    <string name="admin_content_image">content image</string>
+    <string name="menu_item_save">Save</string>
 </resources>
